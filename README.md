@@ -17,7 +17,7 @@ Dark Hole is a pioneering privacy tool designed as the first private ERC-20 toke
 **User-Friendly Interface:** Features an intuitive interface that simplifies the process of mixing tokens while maintaining strict privacy standards.
 
 ## Slides
-[link]()
+[link](https://github.com/Benio501st/ETH_BTS_Hackathone/blob/main/SLIDES.md)
 
 ## Demo
 [link](https://vimeo.com/945284479?share=copy)
